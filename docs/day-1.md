@@ -1,4 +1,4 @@
-# Day 1 – <MQTT Basics>
+# Day 1 – MQTT Basics
 
 ## 🎯 Goal
 
