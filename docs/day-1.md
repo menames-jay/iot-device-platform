@@ -8,14 +8,14 @@ To learn essential MQTT basics such as publishing and subscribing.
 
 ## 📚 Concepts Learned
 
-### 1. Concept Name
+### 1. MQTT Pub/Sub
 
 MQTT uses a **publish/subscribe model** where devices send messages to topics instead of direct connections.
 Here, a single publisher can send messages to all its subscribed devices.
 
 ---
 
-### 2. Concept Name
+### 2. Importance of brokers
 
 Publishers and subscribers are connected via brokers.
 These brokers manage the messages that are sent to subscribers from the publishers.
